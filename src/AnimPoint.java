@@ -3,7 +3,6 @@ public class AnimPoint {
     private int y;
     private int width;
     private int height;
-    private int a;
 
     public AnimPoint(int x, int y, int width, int height){
         this.x = x;
